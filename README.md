@@ -1,2 +1,2 @@
-# Reto-F-sica-m-dica
+# Reto Fisica medica
 Francisco Javier Monroy Hernández Física biomédica
