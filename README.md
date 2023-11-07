@@ -1,7 +1,17 @@
+<p align="left">
+  <img src = "UNAM_logo.png" height = "50px"/>
+</p>
+
+
 <p align="center">
   <img src = "Fis_biomed.png" height = "200px"/>
 </p>
 
+<p align="right">
+  <img src = "Ciencias_logo2.png" height = "50px"/>
+</p>
+
+ 
 # Aplicación Picket Fence
 
 Esta aplicación diseñada en App Designer para correr en Windows(86x_64).
