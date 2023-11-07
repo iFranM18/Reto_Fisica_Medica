@@ -14,8 +14,13 @@ de las mismas mediante software de procesamiento en búsqueda de discrepancias e
 <br />
 <br />
 
-En esta aplicación se realizó el análisis mediante la plataforma de programación MATLAB, donde se realiza un análsis exhaustivo de dos imágenes DICOM tomadas por un acelerador del fabricante Varian, y una
-del fabricante Elekta. El objetivo de este análisis es encontrar aquel par de láminas con la mayor desviación en cuanto al posicionamiento, así como la máxima desviación y el promedio de la misma. </div>
+En esta aplicación se realizó el análisis exhaustivo mediante la plataforma de programación MATLAB, donde se realiza un análsis exhaustivo de dos imágenes DICOM tomadas por un acelerador del fabricante Varian, y una
+del fabricante Elekta. La aplicación tiene como objetivo el comparar las posiciones de los pixeles con mayor intensidad con los de su alrededor con la finalidad de encontrar aquellos con la mayor intensidad y 
+clasificarlos como 'máximos' respecto al resto, una vez localizado estos 'máximos', el siguiente paso es obtener la desviación estándar de estas posiciones y graficarlas. Como siguiente paso, el programa localiza
+el promedio de la desviación estándar, al igual que su máximo, y despliega esta información en una tabla para su rápida visualización. Finalmente, es posible guardar la imagen del análisis y crear un reporte en 
+formato .pdf para almacenar la información obtenida del análisis.
+
+</div>
 
 ### Requerimientos 
 
