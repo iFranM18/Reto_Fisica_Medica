@@ -1,15 +1,10 @@
+![Prueba](https://github.com/iFranM18/DIFM23/blob/main/icon/unam_fc_logos.png)
 
-
-<p align="center">
-  <img src = "logos.png" height = "200px"/>
-</p>
-
- 
 # Aplicación Picket Fence
 <div align="justify"> 
 Esta aplicación diseñada en App Designer de MATLAB para correr en Windows(86x_64). El programa fue diseñado con la intención de llevar a cabo el análisis de imágenes DICOM obtenidas de la prueba Picket Fence
 acorde al TG-142 de la AAPM. Dicha prueba busca corroborar el correcto funcionamiento del colimador multihojas (MLC) mediante un estudio de imagen, en el cuál se buscará detectar anomalías en el posicionamiento
-de las mismas mediante software de procesamiento en búsqueda de discrepancias en el posicionamiento del sistema colimador [^1].
+de las mismas mediante software de procesamiento en búsqueda de discrepancias en el posicionamiento del sistema colimador<sub>1</sub>.
 
 <br />
 <br />
@@ -27,7 +22,7 @@ formato .pdf para almacenar la información obtenida del análisis.
 
 1.- Instalar la aplicación [MATLAB](https://la.mathworks.com/store/?gclid=Cj0KCQiAuqKqBhDxARIsAFZELmI2U62SFmQvDjbBNklz9sMsUFYG39xNu5gLfPHLX4tLkW6P3bT_fBIaAmOsEALw_wcB&ef_id=Cj0KCQiAuqKqBhDxARIsAFZELmI2U62SFmQvDjbBNklz9sMsUFYG39xNu5gLfPHLX4tLkW6P3bT_fBIaAmOsEALw_wcB:G:s&s_kwcid=AL!8664!3!323262175322!p!!g!!get%20matlab&s_eid=ppc_62715811617&q=get%20matlab)  en su versión 2023a/b.
 
-2.- Instalar la aplicación [Picket Fence](https://la.mathworks.com/help/matlab/ref/uilistbox.html).
+2.- Instalar la aplicación [Picket Fence](https://github.com/iFranM18/DIFM23/tree/main/Picket_Fence_app/Picket_Fence/for_redistribution).
 
 3.- Ejecutar el archivo .exe y esperar a que el proceso de instalación finalice.
 
@@ -56,6 +51,4 @@ formato .pdf para almacenar la información obtenida del análisis.
 
 <a id="1">[1]</a>
 Klein, E. E., Hanley, J., Bayouth, J. E., Yin, F., Simon, W. E., Dresser, S., Serago, C. F., Aguirre, F. A., Ma, L., Arjomandy, B., Liu, C., Sandin, C., & Holmes, T. C. (2009). Task Group 142 Report: Quality Assurance of Medical AcceleratorsA). Medical Physics, 36(9Part1), 4197-4212. https://doi.org/10.1118/1.3190392
-
-
 
