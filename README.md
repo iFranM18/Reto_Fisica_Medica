@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "Fis_biomed.png" height = "96px"/>
+  <img src = "Fis_biomed.png" height = "200px"/>
 </p>
 
 # Aplicación Picket Fence
