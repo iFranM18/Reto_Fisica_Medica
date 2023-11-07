@@ -1,4 +1,4 @@
-![Logotipos](https://github.com/iFranM18/Reto_Fisica_Medica/tree/main/icon/unam_fc_logos.png)
+![Logotipos](https://github.com/iFranM18/Reto_Fisica_Medica/blob/main/icon/unam_fc_logos.png)
 
 # Aplicación Picket Fence
 <div align="justify"> 
@@ -22,8 +22,7 @@ formato .pdf para almacenar la información obtenida del análisis.
 
 1.- Instalar la aplicación [MATLAB](https://la.mathworks.com/store/?gclid=Cj0KCQiAuqKqBhDxARIsAFZELmI2U62SFmQvDjbBNklz9sMsUFYG39xNu5gLfPHLX4tLkW6P3bT_fBIaAmOsEALw_wcB&ef_id=Cj0KCQiAuqKqBhDxARIsAFZELmI2U62SFmQvDjbBNklz9sMsUFYG39xNu5gLfPHLX4tLkW6P3bT_fBIaAmOsEALw_wcB:G:s&s_kwcid=AL!8664!3!323262175322!p!!g!!get%20matlab&s_eid=ppc_62715811617&q=get%20matlab)  en su versión 2023a/b.
 
-2.- Instalar la aplicación [Picket Fence](https://github.com/iFranM18/Reto-F-sica-m-dica/tree/main/Picket_Fence_app/Picket_Fence/for_redistribution).
-
+2.- Instalar la aplicación [Picket Fence](https://github.com/iFranM18/Reto_Fisica_Medica/tree/main/Picket_Fence_app/Picket_Fence/for_redistribution).
 
 3.- Ejecutar el archivo .exe y esperar a que el proceso de instalación finalice.
 
