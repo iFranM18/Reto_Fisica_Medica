@@ -1,4 +1,4 @@
-![Prueba](https://github.com/iFranM18/DIFM23/blob/main/icon/unam_fc_logos.png)
+![Logotipos](https://github.com/iFranM18/Reto_Fisica_Medica/tree/main/icon/unam_fc_logos.png)
 
 # Aplicación Picket Fence
 <div align="justify"> 
