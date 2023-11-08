@@ -30,7 +30,6 @@ formato .pdf para almacenar la información obtenida del análisis.
 
 4.- Abrir la aplicación Picket_Fence.exe.
 
-
 ### Guía de botones
 
 - Abrir: Este botón abre el directorio donde se encuentra la aplicación para seleccionar la imagen a análizar (Varian/Elekta).
