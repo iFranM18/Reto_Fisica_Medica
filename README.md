@@ -20,7 +20,9 @@ formato .pdf para almacenar la información obtenida del análisis.
 ### Requerimientos 
 
 
-1.- Instalar la aplicación [MATLAB](https://la.mathworks.com/store/?gclid=Cj0KCQiAuqKqBhDxARIsAFZELmI2U62SFmQvDjbBNklz9sMsUFYG39xNu5gLfPHLX4tLkW6P3bT_fBIaAmOsEALw_wcB&ef_id=Cj0KCQiAuqKqBhDxARIsAFZELmI2U62SFmQvDjbBNklz9sMsUFYG39xNu5gLfPHLX4tLkW6P3bT_fBIaAmOsEALw_wcB:G:s&s_kwcid=AL!8664!3!323262175322!p!!g!!get%20matlab&s_eid=ppc_62715811617&q=get%20matlab)  en su versión 2023a/b.
+1.- Intalar la aplicación git en el ordenador.
+
+2.- Contar con la aplicación MATLAB en su versión 2020 o posterior.
 
 2.- Instalar la aplicación [Picket Fence](https://github.com/iFranM18/Reto_Fisica_Medica/tree/main/Picket_Fence_app/Picket_Fence/for_redistribution).
 
