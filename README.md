@@ -32,7 +32,7 @@ formato .pdf para almacenar la información obtenida del análisis.
 
 ## Descarga del repositorio
 ```sh
-git clone https://github.com/osvaldo13576/DIFM23
+git clone iFranM18/Reto_Fisica_Medica
 ```
 ## Ejecución de la aplicación
 Una vez descargado el repositorio, se debe abrir la aplicación en MATLAB, para ello se debe abrir el archivo `Prueba_PF.m` y ejecutarlo. Una vez ejecutado, se desplegará la interfaz gráfica de usuario. Dentro de MATLAB ejecutar el siguiente comando
@@ -40,9 +40,9 @@ Una vez descargado el repositorio, se debe abrir la aplicación en MATLAB, para 
 Prueba_PF
 ```
 ### Ejecución de la aplicación desde la consola
-Este método es útil para ejecutar la aplicación desde la consola de comandos de Windows o Linux. Para ello, se debe abrir la consola de comandos y ejecutar la siguiente línea para abrir la carpeta contenedora de la aplicación, por ejemplor si el directorio es `C:\Users\PC\Documents\GitHub\DIFM23`:
+Este método es útil para ejecutar la aplicación desde la consola de comandos de Windows o Linux. Para ello, se debe abrir la consola de comandos y ejecutar la siguiente línea para abrir la carpeta contenedora de la aplicación, por ejemplor si el directorio es `C:\Users\PC\Documents\GitHub\Reto_Fisica_Medica`:
 ```sh
-cd C:\Users\PC\Documents\GitHub\DIFM23
+cd C:\Users\PC\Documents\GitHub\Reto_Fisica_Medica
 ```
 Ejecutar la aplicación desde la consola de comandos de Windows o Linux con la siguiente línea:
 ```sh
