@@ -30,7 +30,7 @@ formato .pdf para almacenar la información obtenida del análisis.
 
 ## Descarga del repositorio
 ```sh
-git clone iFranM18/Reto_Fisica_Medica
+git clone https://github.com/iFranM18/Reto_Fisica_Medica
 ```
 ## Ejecución de la aplicación
 Una vez descargado el repositorio, se debe abrir la aplicación en MATLAB, para ello se debe abrir el archivo `Prueba_PF.m` y ejecutarlo. Una vez ejecutado, se desplegará la interfaz gráfica de usuario. Dentro de MATLAB ejecutar el siguiente comando
