@@ -24,8 +24,6 @@ formato .pdf para almacenar la información obtenida del análisis.
 
 - [x] Contar con la aplicación MATLAB en su versión 2020 o posterior.
 
-- [x] Instalar la aplicación [Picket Fence](https://github.com/iFranM18/Reto_Fisica_Medica/tree/main/Picket_Fence_app/Picket_Fence/for_redistribution).
-
 - [x] Ejecutar el archivo .exe y esperar a que el proceso de instalación finalice.
 
 - [x] Abrir la aplicación Picket_Fence.exe.
